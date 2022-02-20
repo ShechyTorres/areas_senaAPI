@@ -1,44 +1,40 @@
 [
-  {
-    "areas": [
-        {
-            "idAreas": 1,
-            "urlAreas": "https://e7.pngegg.com/pngimages/414/923/png-clipart-laptop-hotspot-icon-cartoon-computer-cartoon-character-computer.png",
-            "titleAreas": "Sistemas",
-            "contentAreas": [
-                {
-                    "idProgram": 1,
-                    "titleProgram": "ADSI",
-                    "contentProgram": {
-                        "nameDescription": "ADSI",
-                        "contentDescription": "Parrafo"
-                    }
-                },
-                {
-                    "idProgram": 2,
-                    "titleProgram": "ADSO",
-                    "contentProgram": {
-                        "nameDescription": "ADSO",
-                        "contentDescription": "Parrafo"
-                    }
+    {
+        "idAreas": 1,
+        "urlAreas": "https://e7.pngegg.com/pngimages/414/923/png-clipart-laptop-hotspot-icon-cartoon-computer-cartoon-character-computer.png",
+        "titleAreas": "Sistemas",
+        "contentAreas": [
+            {
+                "idProgram": 1,
+                "titleProgram": "ADSI",
+                "contentProgram": {
+                    "nameDescription": "ADSI",
+                    "contentDescription": "Parrafo"
                 }
-            ]
-        },
-        {
-            "idAreas": 2,
-            "urlAreas": "https://e7.pngegg.com/pngimages/847/595/png-clipart-sewing-machines-corte-y-confeccion-tailor-others-angle-textile.png",
-            "titleAreas": "Confecciones",
-            "contentAreas": [
-                {
-                    "idProgram": 1,
-                    "titleProgram": "Trazo y corte industrial de material textil",
-                    "contentProgram": {
-                        "nameDescription": "Trazo y corte industrial de material textil",
-                        "contentDescription": "Parrafo"
-                    }
+            },
+            {
+                "idProgram": 2,
+                "titleProgram": "ADSO",
+                "contentProgram": {
+                    "nameDescription": "ADSO",
+                    "contentDescription": "Parrafo"
                 }
-            ]
-        }
-    ]
-  }
+            }
+        ]
+    },
+    {
+        "idAreas": 2,
+        "urlAreas": "https://e7.pngegg.com/pngimages/847/595/png-clipart-sewing-machines-corte-y-confeccion-tailor-others-angle-textile.png",
+        "titleAreas": "Confecciones",
+        "contentAreas": [
+            {
+                "idProgram": 1,
+                "titleProgram": "Trazo y corte industrial de material textil",
+                "contentProgram": {
+                    "nameDescription": "Trazo y corte industrial de material textil",
+                    "contentDescription": "Parrafo"
+                }
+            }
+        ]
+    }
 ]
