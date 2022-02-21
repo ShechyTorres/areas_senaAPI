@@ -37,10 +37,40 @@
             }
         ]
     },
-        {
+    {
         "idAreas": 3,
         "urlAreas": "https://e7.pngegg.com/pngimages/796/768/png-clipart-mechanical-engineering-gear-others-miscellaneous-photography.png",
         "titleAreas": "Mecanica",
+        "contentAreas": [
+            {
+                "idProgram": 1,
+                "titleProgram": "Trazo y corte industrial de material textil",
+                "contentProgram": {
+                    "nameDescription": "Trazo y corte industrial de material textil",
+                    "contentDescription": "Parrafo"
+                }
+            }
+        ]
+    },
+    {
+        "idAreas": 4,
+        "urlAreas": "https://e7.pngegg.com/pngimages/796/768/png-clipart-mechanical-engineering-gear-others-miscellaneous-photography.png",
+        "titleAreas": "Marroquineria",
+        "contentAreas": [
+            {
+                "idProgram": 1,
+                "titleProgram": "Trazo y corte industrial de material textil",
+                "contentProgram": {
+                    "nameDescription": "Trazo y corte industrial de material textil",
+                    "contentDescription": "Parrafo"
+                }
+            }
+        ]
+    },
+    {
+        "idAreas": 5,
+        "urlAreas": "https://e7.pngegg.com/pngimages/796/768/png-clipart-mechanical-engineering-gear-others-miscellaneous-photography.png",
+        "titleAreas": "Madera",
         "contentAreas": [
             {
                 "idProgram": 1,
