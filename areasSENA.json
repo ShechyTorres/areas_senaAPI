@@ -36,5 +36,20 @@
                 }
             }
         ]
+    },
+        {
+        "idAreas": 3,
+        "urlAreas": "https://e7.pngegg.com/pngimages/847/595/png-clipart-sewing-machines-corte-y-confeccion-tailor-others-angle-textile.png",
+        "titleAreas": "Mecanica",
+        "contentAreas": [
+            {
+                "idProgram": 1,
+                "titleProgram": "Trazo y corte industrial de material textil",
+                "contentProgram": {
+                    "nameDescription": "Trazo y corte industrial de material textil",
+                    "contentDescription": "Parrafo"
+                }
+            }
+        ]
     }
 ]
