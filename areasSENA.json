@@ -24,7 +24,7 @@
     },
     {
         "idAreas": 2,
-        "urlAreas": "https://e7.pngegg.com/pngimages/847/595/png-clipart-sewing-machines-corte-y-confeccion-tailor-others-angle-textile.png",
+        "urlAreas": "http://planeacionycalidad.com/imgControl/imgProgramacion/confecciones.png",
         "titleAreas": "Confecciones",
         "contentAreas": [
             {
@@ -39,8 +39,8 @@
     },
     {
         "idAreas": 3,
-        "urlAreas": "https://e7.pngegg.com/pngimages/796/768/png-clipart-mechanical-engineering-gear-others-miscellaneous-photography.png",
-        "titleAreas": "Mecanica",
+        "urlAreas": "http://planeacionycalidad.com/imgControl/imgProgramacion/construccion.png",
+        "titleAreas": "Construcción",
         "contentAreas": [
             {
                 "idProgram": 1,
@@ -54,8 +54,8 @@
     },
     {
         "idAreas": 4,
-        "urlAreas": "https://e7.pngegg.com/pngimages/796/768/png-clipart-mechanical-engineering-gear-others-miscellaneous-photography.png",
-        "titleAreas": "Marroquineria",
+        "urlAreas": "http://planeacionycalidad.com/imgControl/imgProgramacion/aviacion.png",
+        "titleAreas": "Aviación",
         "contentAreas": [
             {
                 "idProgram": 1,
@@ -69,7 +69,7 @@
     },
     {
         "idAreas": 5,
-        "urlAreas": "https://e7.pngegg.com/pngimages/796/768/png-clipart-mechanical-engineering-gear-others-miscellaneous-photography.png",
+        "urlAreas": "http://planeacionycalidad.com/imgControl/imgProgramacion/madera.png",
         "titleAreas": "Madera",
         "contentAreas": [
             {
@@ -84,8 +84,8 @@
     },
     {
         "idAreas": 5,
-        "urlAreas": "https://e7.pngegg.com/pngimages/796/768/png-clipart-mechanical-engineering-gear-others-miscellaneous-photography.png",
-        "titleAreas": "Madera",
+        "urlAreas": "http://planeacionycalidad.com/imgControl/imgProgramacion/gestion.png",
+        "titleAreas": "Gestión",
         "contentAreas": [
             {
                 "idProgram": 1,
@@ -99,8 +99,8 @@
     },
     {
         "idAreas": 5,
-        "urlAreas": "https://e7.pngegg.com/pngimages/796/768/png-clipart-mechanical-engineering-gear-others-miscellaneous-photography.png",
-        "titleAreas": "Madera",
+        "urlAreas": "http://planeacionycalidad.com/imgControl/imgProgramacion/etica.png",
+        "titleAreas": "Ética",
         "contentAreas": [
             {
                 "idProgram": 1,
