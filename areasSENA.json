@@ -29,9 +29,41 @@
         "contentAreas": [
             {
                 "idProgram": 1,
-                "titleProgram": "Trazo y corte industrial de material textil",
+                "titleProgram": "Tec. Elab De Prendas De Vestir Sobre Medida",
+                "contentProgram": {
+                    "nameDescription": "Tec. Elab De Prendas De Vestir Sobre Medida",
+                    "contentDescription": "Parrafo"
+                }
+            },
+            {
+                "idProgram": 2,
+                "titleProgram": "Tec. Patronaje Indus De Prendas De Vestir",
+                "contentProgram": {
+                    "nameDescription": "Tec. Patronaje Indus De Prendas De Vestir",
+                    "contentDescription": "Parrafo"
+                }
+            },
+            {
+                "idProgram": 3,
+                "titleProgram": "Tec. Trazo y corte industrial de material textil",
                 "contentProgram": {
                     "nameDescription": "Trazo y corte industrial de material textil",
+                    "contentDescription": "Parrafo"
+                }
+            },
+            {
+                "idProgram": 4,
+                "titleProgram": "Tgo. Desarrollo De Colecciones Para La Industria De La Moda",
+                "contentProgram": {
+                    "nameDescription": "Tgo. Desarrollo De Colecciones Para La Industria De La Moda",
+                    "contentDescription": "Parrafo"
+                }
+            },
+            {
+                "idProgram": 5,
+                "titleProgram": "Tgo. Supervision En Procesos De Confección",
+                "contentProgram": {
+                    "nameDescription": "Tgo. Supervision En Procesos De Confección",
                     "contentDescription": "Parrafo"
                 }
             }
@@ -59,9 +91,49 @@
         "contentAreas": [
             {
                 "idProgram": 1,
-                "titleProgram": "Trazo y corte industrial de material textil",
+                "titleProgram": "Tla 66",
                 "contentProgram": {
-                    "nameDescription": "Trazo y corte industrial de material textil",
+                    "nameDescription": "Tla 66",
+                    "contentDescription": "Parrafo"
+                }
+            },
+            {
+                "idProgram": 2,
+                "titleProgram": "Tla 67",
+                "contentProgram": {
+                    "nameDescription": "Tla 67",
+                    "contentDescription": "Parrafo"
+                }
+            },
+            {
+                "idProgram": 3,
+                "titleProgram": "Tla 68",
+                "contentProgram": {
+                    "nameDescription": "Tla 68",
+                    "contentDescription": "Parrafo"
+                }
+            },
+            {
+                "idProgram": 4,
+                "titleProgram": "Tma 1",
+                "contentProgram": {
+                    "nameDescription": "Tma 1",
+                    "contentDescription": "Parrafo"
+                }
+            },
+            {
+                "idProgram": 5,
+                "titleProgram": "Tma 2",
+                "contentProgram": {
+                    "nameDescription": "Tma 2",
+                    "contentDescription": "Parrafo"
+                }
+            },
+            {
+                "idProgram": 6,
+                "titleProgram": "Tma 3",
+                "contentProgram": {
+                    "nameDescription": "Tma 3",
                     "contentDescription": "Parrafo"
                 }
             }
@@ -89,9 +161,17 @@
         "contentAreas": [
             {
                 "idProgram": 1,
-                "titleProgram": "Trazo y corte industrial de material textil",
+                "titleProgram": "Tco En Informacion Y Servicio Al Cliente",
                 "contentProgram": {
-                    "nameDescription": "Trazo y corte industrial de material textil",
+                    "nameDescription": "Tco En Informacion Y Servicio Al Cliente",
+                    "contentDescription": "Parrafo"
+                }
+            },
+            {
+                "idProgram": 2,
+                "titleProgram": "Tec. Ejecucion De Programas Deportivos",
+                "contentProgram": {
+                    "nameDescription": "Tec. Ejecucion De Programas Deportivos",
                     "contentDescription": "Parrafo"
                 }
             }
@@ -104,9 +184,9 @@
         "contentAreas": [
             {
                 "idProgram": 1,
-                "titleProgram": "Trazo y corte industrial de material textil",
+                "titleProgram": "Programa De Ética",
                 "contentProgram": {
-                    "nameDescription": "Trazo y corte industrial de material textil",
+                    "nameDescription": "Programa De Ética",
                     "contentDescription": "Parrafo"
                 }
             }
