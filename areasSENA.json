@@ -8,6 +8,8 @@
                 "idProgram": 1,
                 "titleProgram": "ADSI",
                 "contentProgram": {
+                    "fondoDescription": "https://www.caracteristicas.co/wp-content/uploads/2018/08/Sistema-tecnologia-min-e1533654679965.jpg",
+                    "urlDescripcion": "http://planeacionycalidad.com/imgControl/imgProgramacion/sistemas.png",
                     "titleDescription": "ADSI",
                     "contentDescription": "Parrafo"
                 }
@@ -16,6 +18,7 @@
                 "idProgram": 2,
                 "titleProgram": "ADSO",
                 "contentProgram": {
+                    "urlDescription": "https://www.caracteristicas.co/wp-content/uploads/2018/08/Sistema-tecnologia-min-e1533654679965.jpg",
                     "titleDescription": "ADSO",
                     "contentDescription": "Parrafo"
                 }
@@ -31,6 +34,8 @@
                 "idProgram": 1,
                 "titleProgram": "Tec. Elab De Prendas De Vestir Sobre Medida",
                 "contentProgram": {
+                    "fondoDescription": "https://www.caracteristicas.co/wp-content/uploads/2018/08/Sistema-tecnologia-min-e1533654679965.jpg",
+                    "urlDescription": "http://planeacionycalidad.com/imgControl/imgProgramacion/confecciones.png",
                     "titleDescription": "Tec. Elab De Prendas De Vestir Sobre Medida",
                     "contentDescription": "Parrafo"
                 }
@@ -39,6 +44,8 @@
                 "idProgram": 2,
                 "titleProgram": "Tec. Patronaje Indus De Prendas De Vestir",
                 "contentProgram": {
+                    "fondoDescription": "https://www.caracteristicas.co/wp-content/uploads/2018/08/Sistema-tecnologia-min-e1533654679965.jpg",
+                    "urlDescription": "http://planeacionycalidad.com/imgControl/imgProgramacion/confecciones.png",
                     "titleDescription": "Tec. Patronaje Indus De Prendas De Vestir",
                     "contentDescription": "Parrafo"
                 }
@@ -47,6 +54,8 @@
                 "idProgram": 3,
                 "titleProgram": "Tec. Trazo y corte industrial de material textil",
                 "contentProgram": {
+                    "fondoDescription": "https://www.caracteristicas.co/wp-content/uploads/2018/08/Sistema-tecnologia-min-e1533654679965.jpg",
+                    "urlDescription": "http://planeacionycalidad.com/imgControl/imgProgramacion/confecciones.png",
                     "titleDescription": "Trazo y corte industrial de material textil",
                     "contentDescription": "Parrafo"
                 }
@@ -55,6 +64,8 @@
                 "idProgram": 4,
                 "titleProgram": "Tgo. Desarrollo De Colecciones Para La Industria De La Moda",
                 "contentProgram": {
+                    "fondoDescription": "https://www.caracteristicas.co/wp-content/uploads/2018/08/Sistema-tecnologia-min-e1533654679965.jpg",
+                    "urlDescription": "http://planeacionycalidad.com/imgControl/imgProgramacion/confecciones.png",
                     "titleDescription": "Tgo. Desarrollo De Colecciones Para La Industria De La Moda",
                     "contentDescription": "Parrafo"
                 }
@@ -63,6 +74,8 @@
                 "idProgram": 5,
                 "titleProgram": "Tgo. Supervision En Procesos De Confección",
                 "contentProgram": {
+                    "fondoDescription": "https://www.caracteristicas.co/wp-content/uploads/2018/08/Sistema-tecnologia-min-e1533654679965.jpg",
+                    "urlDescription": "http://planeacionycalidad.com/imgControl/imgProgramacion/confecciones.png",
                     "titleDescription": "Tgo. Supervision En Procesos De Confección",
                     "contentDescription": "Parrafo"
                 }
@@ -78,6 +91,8 @@
                 "idProgram": 1,
                 "titleProgram": "Trazo y corte industrial de material textil",
                 "contentProgram": {
+                    "fondoDescription": "https://www.caracteristicas.co/wp-content/uploads/2018/08/Sistema-tecnologia-min-e1533654679965.jpg",
+                    "urlDescription": "http://planeacionycalidad.com/imgControl/imgProgramacion/construccion.png",
                     "titleDescription": "Trazo y corte industrial de material textil",
                     "contentDescription": "Parrafo"
                 }
@@ -93,6 +108,8 @@
                 "idProgram": 1,
                 "titleProgram": "Tla 66",
                 "contentProgram": {
+                    "fondoDescription": "https://www.caracteristicas.co/wp-content/uploads/2018/08/Sistema-tecnologia-min-e1533654679965.jpg",
+                    "urlDescription": "http://planeacionycalidad.com/imgControl/imgProgramacion/aviacion.png",
                     "titleDescription": "Tla 66",
                     "contentDescription": "Parrafo"
                 }
@@ -101,6 +118,8 @@
                 "idProgram": 2,
                 "titleProgram": "Tla 67",
                 "contentProgram": {
+                    "fondoDescription": "https://www.caracteristicas.co/wp-content/uploads/2018/08/Sistema-tecnologia-min-e1533654679965.jpg",
+                    "urlDescription": "http://planeacionycalidad.com/imgControl/imgProgramacion/aviacion.png",
                     "titleDescription": "Tla 67",
                     "contentDescription": "Parrafo"
                 }
@@ -109,6 +128,8 @@
                 "idProgram": 3,
                 "titleProgram": "Tla 68",
                 "contentProgram": {
+                    "fondoDescription": "https://www.caracteristicas.co/wp-content/uploads/2018/08/Sistema-tecnologia-min-e1533654679965.jpg",
+                    "urlDescription": "http://planeacionycalidad.com/imgControl/imgProgramacion/aviacion.png",
                     "titleDescription": "Tla 68",
                     "contentDescription": "Parrafo"
                 }
@@ -117,6 +138,8 @@
                 "idProgram": 4,
                 "titleProgram": "Tma 1",
                 "contentProgram": {
+                    "fondoDescription": "https://www.caracteristicas.co/wp-content/uploads/2018/08/Sistema-tecnologia-min-e1533654679965.jpg",
+                    "urlDescription": "http://planeacionycalidad.com/imgControl/imgProgramacion/aviacion.png",
                     "titleDescription": "Tma 1",
                     "contentDescription": "Parrafo"
                 }
@@ -125,6 +148,8 @@
                 "idProgram": 5,
                 "titleProgram": "Tma 2",
                 "contentProgram": {
+                    "fondoDescription": "https://www.caracteristicas.co/wp-content/uploads/2018/08/Sistema-tecnologia-min-e1533654679965.jpg",
+                    "urlDescription": "http://planeacionycalidad.com/imgControl/imgProgramacion/aviacion.png",
                     "titleDescription": "Tma 2",
                     "contentDescription": "Parrafo"
                 }
@@ -133,6 +158,8 @@
                 "idProgram": 6,
                 "titleProgram": "Tma 3",
                 "contentProgram": {
+                    "fondoDescription": "https://www.caracteristicas.co/wp-content/uploads/2018/08/Sistema-tecnologia-min-e1533654679965.jpg",
+                    "urlDescription": "http://planeacionycalidad.com/imgControl/imgProgramacion/aviacion.png",
                     "titleDescription": "Tma 3",
                     "contentDescription": "Parrafo"
                 }
@@ -148,6 +175,8 @@
                 "idProgram": 1,
                 "titleProgram": "Trazo y corte industrial de material textil",
                 "contentProgram": {
+                    "fondoDescription": "https://www.caracteristicas.co/wp-content/uploads/2018/08/Sistema-tecnologia-min-e1533654679965.jpg",
+                    "urlDescription": "http://planeacionycalidad.com/imgControl/imgProgramacion/madera.png",
                     "titleDescription": "Trazo y corte industrial de material textil",
                     "contentDescription": "Parrafo"
                 }
@@ -163,6 +192,8 @@
                 "idProgram": 1,
                 "titleProgram": "Tco En Informacion Y Servicio Al Cliente",
                 "contentProgram": {
+                    "fondoDescription": "https://www.caracteristicas.co/wp-content/uploads/2018/08/Sistema-tecnologia-min-e1533654679965.jpg",
+                    "urlDescription": "http://planeacionycalidad.com/imgControl/imgProgramacion/gestion.png",
                     "titleDescription": "Tco En Informacion Y Servicio Al Cliente",
                     "contentDescription": "Parrafo"
                 }
@@ -171,6 +202,8 @@
                 "idProgram": 2,
                 "titleProgram": "Tec. Ejecucion De Programas Deportivos",
                 "contentProgram": {
+                    "fondoDescription": "https://www.caracteristicas.co/wp-content/uploads/2018/08/Sistema-tecnologia-min-e1533654679965.jpg",
+                    "urlDescription": "http://planeacionycalidad.com/imgControl/imgProgramacion/gestion.png",
                     "titleDescription": "Tec. Ejecucion De Programas Deportivos",
                     "contentDescription": "Parrafo"
                 }
@@ -186,6 +219,8 @@
                 "idProgram": 1,
                 "titleProgram": "Programa De Ética",
                 "contentProgram": {
+                    "fondoDescription": "https://www.caracteristicas.co/wp-content/uploads/2018/08/Sistema-tecnologia-min-e1533654679965.jpg",
+                    "urlDescription": "http://planeacionycalidad.com/imgControl/imgProgramacion/etica.png",
                     "titleDescription": "Programa De Ética",
                     "contentDescription": "Parrafo"
                 }
